@@ -35,3 +35,14 @@ footer {
   color: #777;
   border-top: 1px solid #eaeaea;
 }
+
+.not-found {
+  text-align: center;
+}
+
+.not-found a{
+  color: #fff;
+  background-color: #4979ff;
+  padding: 5px 10px;
+  border-radius: 8px;
+}
